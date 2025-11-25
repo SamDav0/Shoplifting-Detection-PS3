@@ -32,5 +32,17 @@ High-level components:
 ```bash
 pip install ultralytics torch torchvision torchaudio
 pip install numpy matplotlib opencv-python scikit-learn tqdm seaborn
+```
 
-##
+## Running Instructions
+
+### **1. Using the Pre-Trained Model (Recommended)**
+
+1. Open **`Video-Prediction.py`**.
+
+2. Set the model path:
+
+   ```python
+   MODEL_NAME = "./models/Pre-Trained/sgt_model_2class_bs32.pth"
+   ```
+
