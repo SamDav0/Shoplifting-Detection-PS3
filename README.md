@@ -55,7 +55,7 @@ pip install numpy matplotlib opencv-python scikit-learn tqdm seaborn
 
 ### **Training the Model (If You Want to Verify Metrics)**
  1. Download the JSON Dataset
-    https://drive.google.com/drive/folders/1kj3KtDQp_N1juB0cxY-QjyZqfp3mQ7W0 (dataset link)
+    [https://drive.google.com/drive/folders/1kj3KtDQp_N1juB0cxY-QjyZqfp3mQ7W0](https://drive.google.com/drive/folders/1kj3KtDQp_N1juB0cxY-QjyZqfp3mQ7W0?usp=sharing) (dataset link)
     
  2. Place the folder Dataset-JSON inside the project root directory.Final Structure should look like this
     ![Confusion Matrix](assets/directory-structure.png)
