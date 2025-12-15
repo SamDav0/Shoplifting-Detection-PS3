@@ -70,7 +70,7 @@ pip install numpy matplotlib opencv-python scikit-learn tqdm seaborn
     cd Training-Script
     python3 training.py
     ```
- 6. Confusion Matrix and Loss(validation and training) v/s Epochs
+ 6. Validation Set Confusion Matrix and Loss(validation and training) v/s Epochs
     ![Confusion Matrix](assets/confusion_matrix.png)
     ![Loss Curve](assets/trainingloss_validationloss.png)
     
